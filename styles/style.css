@@ -76,7 +76,8 @@ font-style: 600;
   min-width: 784px;
   position: relative;
   left: 0; top: 0;
-  width: 85%; height: 85%;
+  width: 85%;
+  height: 85%;
   padding-top: 100px;
 }
 
